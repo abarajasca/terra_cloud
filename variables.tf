@@ -46,3 +46,11 @@ variable "enable_monitoring" {
   type        = bool
   default     = false
 }
+
+variable "access_key" {
+
+}
+
+variable "secret_key" {
+
+}
